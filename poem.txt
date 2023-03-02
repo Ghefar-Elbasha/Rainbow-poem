@@ -5,5 +5,5 @@ BLUE
 PINK
 ORANGE
 GREEN
-
+black
 These are the colours of the rainbow
