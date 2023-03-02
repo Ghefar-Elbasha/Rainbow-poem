@@ -4,6 +4,7 @@ PURPLE
 BLUE
 PINK
 ORANGE
+yellow
 GREEN
 black
 These are the colours of the rainbow and the unicorn
